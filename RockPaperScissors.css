@@ -1,0 +1,74 @@
+body{
+  background-color: black;
+}
+.value1{
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+}
+.choice{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.choice1{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  cursor: pointer;
+}
+.choice2{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  padding-right: 10px;
+  cursor: pointer;
+
+}
+.choice3{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  cursor: pointer;
+}
+#game1{
+  color: white;
+}
+#game2{
+  color: white;
+}
+#game3{
+  color: white;
+}
+#game4{
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-left: 10px;
+}
+.you{
+  width: 80px;
+  height: 80px;
+  background-color: black;
+  border-radius: 50%;
+  margin-left: 10px;
+
+}
+.you1{
+  width: 80px;
+  height: 80px;
+  background-color: black;
+  border-radius: 50%;
+  margin-left: 10px;
+
+}
+.Reset{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 10px;
+}
